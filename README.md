@@ -7,16 +7,17 @@ DeCNN, GNN, and pipe flow simulation code associated with our accepted IDETC 202
 This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
 
 Jun Wang, Kevin Chiu, and Mark Fuge. "Learning to Abstract and Compose Mechanical Device Function and Behavior." IDETC (2020).
+https://doi.org/10.1115/DETC2020-22714
 
-  @inproceedings{wang2020learning,
-  title={Learning to Abstract and Compose Mechanical Device Function and Behavior},
-  author={Wang, Jun and Chiu, Kevin and Fuge, Mark},
-  booktitle={International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
-  volume={84003},
-  pages={V11AT11A009},
-  year={2020},
-  organization={American Society of Mechanical Engineers}
-}
+    @inproceedings{wang2020learning,
+          title={Learning to Abstract and Compose Mechanical Device Function and Behavior},
+          author={Wang, Jun and Chiu, Kevin and Fuge, Mark},
+          booktitle={International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+          volume={84003},
+          pages={V11AT11A009},
+          year={2020},
+          organization={American Society of Mechanical Engineers}
+     }
 
 ## Required packages
 
